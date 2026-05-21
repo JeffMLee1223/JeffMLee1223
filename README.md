@@ -60,7 +60,7 @@ A machine learning service that trains a PyTorch model and exposes it through a 
 
 ---
 
-### 🏎️ C++ Driver Database System
+### 🏎️ Formula 1 Driver Database System
 A C++ data structures project using hash tables, binary search trees, stacks, file I/O, and object-oriented programming to manage driver performance data.
 
 **Tech:** C++, OOP, hash table, BST, stack, file I/O
