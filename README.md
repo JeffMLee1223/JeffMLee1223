@@ -37,7 +37,7 @@ I enjoy building projects that connect software with the real world, including A
 
 ---
 
-## 🔧 Projects I'm Building
+## 🔧 Projects I'm currently Building
 
 ### 🚓 Arduino Police Light Controller
 An embedded project for a miniature police car lighting system using Arduino.  
@@ -117,6 +117,6 @@ I'm currently looking for internship opportunities in:
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's be friend and explore the industry together~~
 - LinkedIn: 
 - Email: perfect513847@gmail.com
