@@ -2,10 +2,7 @@
 
 CS @ UC Davis 
 
-Focus on **AI software engineering, AI training, embedded systems, robotics, and vehicle telemetry**.
-
-I enjoy building projects that connect software with the real world, including Arduino, C++ simulations, sensor data pipelines, and AI-powered backend services.
-
+Focus on **AI software engineering, AI, embedded systems
 ---
 
 ## 🚀 Current Focus
