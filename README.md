@@ -115,5 +115,4 @@ I'm currently looking for internship opportunities in:
 ---
 
 ## 📫 Let's be friend and explore the industry together~~
-- LinkedIn: 
 - Email: perfect513847@gmail.com
