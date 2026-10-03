@@ -2,34 +2,22 @@
 
 CS @ UC Davis 
 
-Focus on **AI software engineering, AI, embedded systems
+Focus on *Software engineering, distributed systems
 ---
 
 ## 🚀 Current Focus
-
-- Strengthening **C++ data structures and algorithms**
-- Building **embedded systems projects** with Arduino
-- Learning **Python backend development** with FastAPI and PostgreSQL
-- Exploring **AI software engineering** with PyTorch and model-serving APIs
-- Preparing for **Summer 2027 software engineering internships**
-
+Apache Kafka Open Source
 ---
 
 ## 🛠️ Technical Skills
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
@@ -42,21 +30,6 @@ The project focuses on LED control, button-based mode switching, and non-blockin
 
 **Tech:** Arduino, C++, LEDs, buttons, embedded systems
 
----
-
-### 📡 Edge Telemetry Fault Detection
-An embedded + backend system that collects sensor data from Arduino/ESP32, sends it to a Python backend, stores it in PostgreSQL, and detects abnormal behavior.
-
-**Tech:** ESP32, Python, FastAPI, PostgreSQL, Docker, anomaly detection
-
----
-
-### 🤖 PyTorch Model Service
-A machine learning service that trains a PyTorch model and exposes it through a REST API for real-time inference.
-
-**Tech:** Python, PyTorch, FastAPI, Docker, REST API
-
----
 
 ### 🏎️ Formula 1 Driver Database System
 A C++ data structures project using hash tables, binary search trees, stacks, file I/O, and object-oriented programming to manage driver performance data.
@@ -79,25 +52,6 @@ A Conway-inspired cellular automata simulation that models virus spread, misinfo
 
 ---
 
-### 🐍 C++ AI Snake Pathfinding
-A Snake game with AI-controlled movement using BFS and A* pathfinding to navigate toward food while avoiding walls and obstacles.
-
-**Tech:** C++, OOP, BFS, A*, pathfinding, game AI
-
----
-
-## 📚 Learning Roadmap
-
-Currently learning and practicing:
-
-- C++ STL, algorithms, and LeetCode patterns
-- Git / GitHub workflow
-- Arduino and ESP32 development
-- Python backend development
-- SQL and PostgreSQL
-- PyTorch model training and deployment
-- Docker and basic Linux tools
-- Assembly Language
 
 ---
 
@@ -106,13 +60,12 @@ Currently learning and practicing:
 I'm currently looking for internship opportunities in:
 
 - Software Engineering
-- AI Software Engineering
+- Distributed Systems Engineering
 - Backend Engineering
 - Embedded Software Engineering
-- Robotics Software
-- Vehicle Telemetry / Systems Software
+- Systems Software
 
 ---
 
-## 📫 Let's be friend and explore the industry together~~
+## 📫 Let's be friends and explore the industry together~~
 - Email: perfect513847@gmail.com
