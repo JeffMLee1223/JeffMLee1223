@@ -2,7 +2,7 @@
 
 CS @ UC Davis 
 
-Focus on *Software engineering, distributed systems
+Focus on *Software engineering, distributed systems*
 ---
 
 ## 🚀 Current Focus
